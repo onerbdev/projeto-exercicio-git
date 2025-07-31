@@ -1,2 +1,5 @@
 console.log("Olá, mundo!")
-  "conflito github resolvido"
+  "conflito github resolvido 1"
+
+
+
